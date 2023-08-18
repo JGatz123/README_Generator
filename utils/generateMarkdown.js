@@ -14,11 +14,11 @@ function renderLicenseSection(license) {}
 function generateMarkdown(answers) {
     const readmeMarkdown = `
     
-    # Project Title: ${answers.title}
+# Project Title: ${answers.title}
 
-    ## Description: ${answers.description}
+## Description: ${answers.description}
 
-    ${answers.license}
+${answers.license}
 
     
 
@@ -27,7 +27,7 @@ function generateMarkdown(answers) {
 
 
 
-    Some more normal text here
+Some more normal text here
     
     
     
