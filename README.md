@@ -10,7 +10,7 @@
 ![](./assets/RMEimgs/PassGen1.png)
 
 ## Upon that they will recieve a series of prompts asking:
-![](./assets\RMEimgs\PassGen2.png)
+![](.\assets\RMEimgs\PassGen2.png)
 ### the title of the project,
 
 ### A description,
