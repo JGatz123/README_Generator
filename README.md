@@ -8,6 +8,7 @@
 
 ## Usage: The user will open an integrated terminal and type node.js
 ![](./assets/RMEimgs/PassGen1.png)
+![](./assets/rmeimgs/JSGame1.png)
 upon that they will recieve a series of prompts asking, the title of the project, a description, steps required  to install and use the program, the license of the project, and finally how the project is used. Upon completion of the prompts the ReadMe will be Generated.
 
 MIT License
