@@ -11,7 +11,7 @@
 
 ## Upon that they will recieve a series of prompts asking:
 ### the title of the project,
-![](./assets/RMEimgs/passgen2.png)
+![](./assets/RMEimgs/PassGen2.png)
 ### A description,
 ![](./assets/RMEimgs/passgen3.png)
 ### steps required to install and use the program,
