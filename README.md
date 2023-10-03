@@ -6,7 +6,22 @@
 
 ## Installation: This application requires no additional softeware or programs to be installed. Access to VS code or another code writing software is the only requirement to use this program.
 
-## Usage: The user will open an integrated terminal and type node.js, upon that they will recieve a series of prompts asking, the title of the project, a description, steps required  to install and use the program, the license of the project, and finally how the project is used. Upon completion of the prompts the ReadMe will be Generated.
+## Usage: The user will open an integrated terminal and type node.js
+![](./assets/RMEimgs/passgen1.png)
+
+## Upon that they will recieve a series of prompts asking:
+![](.\assets\RMEimgs\PassGen2.png)
+### the title of the project,
+
+### A description,
+
+### steps required to install and use the program,
+
+### the license of the project, 
+
+### And finally how the project is used. 
+
+## Upon completion of the prompts the ReadMe will be Generated.
 
 MIT License
 
@@ -17,7 +32,7 @@ MIT License
 
 
 
-Some more normal text here
+
     
     
     
