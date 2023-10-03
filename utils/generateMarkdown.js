@@ -18,6 +18,10 @@ function generateMarkdown(answers) {
 
 ## Description: ${answers.description}
 
+## Installation: ${answers.installation}
+
+## Usage: ${answers.usage}
+
 ${answers.license}
 
     

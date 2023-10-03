@@ -26,11 +26,27 @@ function init() {
                 message:"What is the description of your project?"
             },
             {
+                type:"input",
+                name:"installation",
+                message: "What the steps required to install and use this application"
+            },
+            {
                 type:"list",
                 name:"license",
                 message:"Choose a license for your project",
                 choices:["Apache License 2.0", "GNU General Public License V3.0", "MIT License", "None"]
             },
+            {
+                type:"input",
+                name:"installation",
+                message: "What the steps required to install and use this application"
+            },
+            {
+                type:"input",
+                name:"usage",
+                message: "Describe how the application is used"
+            }
+
         ])
         .then((answers) => {
             // answers is an object //
