@@ -10,19 +10,18 @@
 ![](./assets/RMEimgs/passgen1.png)
 
 ## Upon that they will recieve a series of prompts asking:
-![](.\assets\RMEimgs\PassGen2.png)
 ### the title of the project,
-
+![](./assets/RMEimgs/PassGen2.png)
 ### A description,
-
+![](./assets/RMEimgs/PassGen3.png)
 ### steps required to install and use the program,
-
+![](./assets/RMEimgs/PassGen4.png)
 ### the license of the project, 
-
+![](./assets/RMEimgs/PassGen5.png)
 ### And finally how the project is used. 
-
+![](./assets/RMEimgs/PassGen6.png)
 ## Upon completion of the prompts the ReadMe will be Generated.
-
+![](./assets/RMEimgs/PassGen7.png)
 MIT License
 
     
