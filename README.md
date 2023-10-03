@@ -7,7 +7,7 @@
 ## Installation: This application requires no additional softeware or programs to be installed. Access to VS code or another code writing software is the only requirement to use this program.
 
 ## Usage: The user will open an integrated terminal and type node.js
-![](./assets/RMEimgs/PassGen1.png)
+![](./assets/RMEimgs/passgen1.png)
 
 ## Upon that they will recieve a series of prompts asking:
 ![](.\assets\RMEimgs\PassGen2.png)
